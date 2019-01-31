@@ -1,6 +1,6 @@
 # Leetcode Java 版本视频讲解 Code
 
-此代码是[Cspiration](https://cspiration.com)的《Leetcode Java 版本视频讲解》的课上源码。  
+此代码是[Cspiration](https://cspiration.com)的《Leetcode Java 版本视频讲解（上）（中）（下）》的课上源码。  
 但依然无偿免费开放，旨在为各位小伙伴们提供便利，减少刷题负担，希望大家能够多多支持。
 
 ## 课程介绍
@@ -17,8 +17,8 @@
 ## 其他课程
 
 刷 Leetcode 一定要有一定的基础，如果是最高效的刷，还需要系统性刷题，知道做题分类和每种类别的方法，所以开了以下两门课程：  
-* [算法基础知识](https://cspiration.com/AlogrithmClass)：包含 Java 基础讲解，从零学起，各种数据结构讲解，和对应 Java 代码实现，对应 Java 源码分析，由浅入深，逐步讲解。
-* [题型技巧讲解](https://cspiration.com/AlogrithmClass)：面试和 Leetcode 常考题型，每种题型做题技巧，心得总结，每种题型再细致分类，遇见什么题怎么最快想出思路，每种题型最后对应 Leetcode 题目。  
+* [算法基础知识（上）（下）](https://cspiration.com/AlogrithmClass)：包含 Java 基础讲解，从零学起，各种数据结构讲解，和对应 Java 代码实现，对应 Java 源码分析，由浅入深，逐步讲解。
+* [题型技巧讲解（上）（下）](https://cspiration.com/AlogrithmClass)：面试和 Leetcode 常考题型，每种题型做题技巧，心得总结，每种题型再细致分类，遇见什么题怎么最快想出思路，每种题型最后对应 Leetcode 题目。  
 
 ```
 本课程是一套课程体系，每章最后均会给出对应下门课章节：基础 - 题型 - Leetcode题目
