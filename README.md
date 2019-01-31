@@ -41,7 +41,7 @@ Leetcode 分类仅仅是按题型划分，哪些题先做后做没有说明，�
 1.0 版本：初版
 
 ## 作者
-Edward Shi
+* Edward Shi
 <div align=center>
   <img width="150" height="150" src="https://github.com/Cspiration/img-folder/blob/master/edwardshi95%20(卡通).jpg"/>
 </div>
