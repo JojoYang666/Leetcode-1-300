@@ -18,20 +18,20 @@
 
 刷 Leetcode 一定要有一定的基础，如果是最高效的刷，还需要系统性刷题，知道做题分类和每种类别的方法，所以开了以下两门课程：  
 * [算法基础知识](https://cspiration.com/AlogrithmClass)：包含 Java 基础讲解，从零学起，各种数据结构讲解，和对应 Java 代码实现，对应 Java 源码分析，由浅入深，逐步讲解。
-* [题型技巧讲解](https://cspiration.com/AlogrithmClass)：面试和 Leetcode 常考题型，每种题型做题技巧，心得总结，每种题型再细致分类，遇见什么题怎么最快想出思路，每种题型最后对应 Leetcode 题目。
-建议初学者掌握基础再刷，千万不能小看基础。如果面试时间非常赶，也强烈建议按《题型》这门课刷题，事半功倍。  
+* [题型技巧讲解](https://cspiration.com/AlogrithmClass)：面试和 Leetcode 常考题型，每种题型做题技巧，心得总结，每种题型再细致分类，遇见什么题怎么最快想出思路，每种题型最后对应 Leetcode 题目。  
+建议初学者掌握基础再刷，千万不能小看基础。如果面试时间非常赶，也强烈建议按《题型》这门课刷题，事半功倍。 
 （本课程是一套课程体系，每章最后均会给出对应下门课章节：基础 - 题型 - LC题目）
 
 ## Leetcode 分类顺序表
-
-[Leetcode分类顺序表](https://cspiration.com/leetcodeClassification)  
+  
 Leetcode 本身是无序，分类也仅仅是按题型划分，哪些题先做后做没有说明，此表重新划分类别，并建议刷题的先后顺序。
+* [Leetcode分类顺序表](https://cspiration.com/leetcodeClassification)
 
 ## 刷题方法
 
-详情见我知乎答案：  
-[刷 Leetcode 需要哪些基础](https://www.zhihu.com/question/30737325/answer/524120016)  
-[刷 LeetCode 吃力正常吗](https://www.zhihu.com/question/31092580/answer/453117660)
+详情见知乎答案：  
+* [刷 Leetcode 需要哪些基础](https://www.zhihu.com/question/30737325/answer/524120016)  
+* [刷 LeetCode 吃力正常吗](https://www.zhihu.com/question/31092580/answer/453117660)
 
 ## 版本
 
