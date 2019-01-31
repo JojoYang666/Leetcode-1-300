@@ -1,8 +1,8 @@
 # Leetcode Java 版本视频讲解 Code
 
 此代码是[Cspiration](https://cspiration.com)的《Leetcode Java 版本视频讲解（上）（中）（下）》的课上源码。  
-但依然无偿免费开放，旨在为各位小伙伴们提供便利，减少刷题负担，希望大家能够多多支持。
-
+但依然无偿免费开放，旨在为各位小伙伴们提供便利，减少刷题负担，希望大家能够多多支持。  
+<img width="500" src="https://github.com/Cspiration/img-folder/blob/master/最终logo.jpg"/>
 ## 课程介绍
 
 《Leetcode Java 版本视频讲解》这门课讲解 [Leetcode](https://leetcode.com)上的1-900题，适合各个刷题阶段的人群。可以轻松让初学者一天10题以上，入门者一天20以上。刷题时间减少，效率提高2-3倍。
@@ -41,8 +41,9 @@ Leetcode 分类仅仅是按题型划分，哪些题先做后做没有说明，�
 1.0 版本：初版
 
 ## 作者
-
-Edward Shi
+<div align=center>
+  <img width="150" height="150" alt="Edward Shi" src="https://github.com/Cspiration/img-folder/blob/master/edwardshi95%20(卡通).jpg"/>
+</div>
 
 ## 许可
 
